@@ -10,5 +10,5 @@
 </p>
 <p align="left"><strong><span style="font-size: 2em;">Technologies</span></strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,linux,postman,git&theme=dark&perline=4" width="300" alt="Services" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,linux,git&theme=dark&perline=4" width="300" alt="Services" />
 </p>
