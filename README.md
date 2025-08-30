@@ -6,9 +6,9 @@
 </p>
 <p align="left"><strong><span style="font-size: 2em;">Frameworks</span></strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,nodejs,sass,&theme=dark&perline=4" width="300" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,sass,vite&theme=dark&perline=4" width="300" alt="Frameworks" />
 </p>
 <p align="left"><strong><span style="font-size: 2em;">Technologies</span></strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,git&theme=dark&perline=4" width="300" alt="Services" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,,linux,git&theme=dark&perline=4" width="300" alt="Services" />
 </p>
