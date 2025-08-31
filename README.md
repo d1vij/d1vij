@@ -2,7 +2,7 @@
 
 <p align="left"><strong><span style="font-size: 2em;">Languages</span></strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,regex&theme=dark&perline=4" width="300" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,regex,,c,cpp&theme=dark&perline=4" width="300" alt="Languages" />
 </p>
 <p align="left"><strong><span style="font-size: 2em;">Frameworks</span></strong></p>
 <p align="left">
