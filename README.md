@@ -1,11 +1,11 @@
 <div style="background-color:#121212; padding: 25px; border-radius: 16px; color:#ECECEC; font-family: 'Segoe UI', sans-serif; text-align: left; box-shadow: 0 8px 20px rgba(0,0,0,0.6);">
 
-<h2 style="margin-bottom: 20px; color:#FFD369; font-size: 28px; font-weight: 600; display: flex; justify-content:space-between;">
+<!-- <h2 style="margin-bottom: 20px; color:#FFD369; font-size: 28px; font-weight: 600; display: flex; justify-content:space-between;">
   Developing in
   <a href="https://cultofthepartyparrot.com" style="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="28" width="28">
   </a> 
-</h2>
+</h2> -->
 
 <h3 style="color:#FFD369; margin-bottom: 10px; font-weight: 500;">Languages</h3>
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
