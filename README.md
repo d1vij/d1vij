@@ -44,9 +44,10 @@
 
 <h3 style="color:#FFD369; margin-bottom: 15px; font-weight: 500;">Projects</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d1vij&repo=BrowserSH&theme=dark" width="350" alt="BrowserSH" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.5);"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=d1vij&repo=py-bridge&theme=dark" width="350" alt="py-bridge" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.5);"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d1vij&repo=BrowserSH&theme=dark" width="350" alt="BrowserSH" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.5);"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=d1vij&repo=electionsoftware&theme=dark" width="350" alt="electionsoftware" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.5);"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d1vij&repo=micro-newlineabove&theme=dark" width="350" alt="micro-newlineabove" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.5);"/>
 </div>
 
 </div>
