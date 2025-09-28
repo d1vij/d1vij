@@ -11,9 +11,6 @@
     <a href="https://www.javascript.com/" target="_blank">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
-    <a href="https://www.regular-expressions.info/" target="_blank">
-      <img src="https://img.shields.io/badge/Regex-FF6F61?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
-    </a>
     <a href="https://en.cppreference.com/w/c/language" target="_blank">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     </a>
@@ -32,6 +29,9 @@
     </a>
     <a href="https://vitejs.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    </a>
+    <a href="https://www.regular-expressions.info/" target="_blank">
+      <img src="https://img.shields.io/badge/Regex-FF6F61?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
     </a>
   </div>
 
