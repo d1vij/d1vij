@@ -11,6 +11,9 @@
     <a href="https://www.javascript.com/" target="_blank">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
+    <a href="https://go.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    </a>
     <a href="https://en.cppreference.com/w/c/language" target="_blank">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     </a>
@@ -18,6 +21,9 @@
 
   <h3>Frameworks & Tools</h3>
   <div>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </a>
     <a href="https://expressjs.com/" target="_blank">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     </a>
@@ -37,6 +43,9 @@
 
   <h3>Libraries</h3>
   <div>
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    </a>
     <a href="https://pandas.pydata.org/" target="_blank">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     </a>
